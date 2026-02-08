@@ -1,1 +1,3 @@
-ستجد معلومات المشروع وطريقة العمل هنا <https://a3ammar.github.io/arabic-jekyll/>
+# Blogsite for AI thoughts
+
+discuss and share new thoughts , theory , ideas and more about AI , and Human Analogy
